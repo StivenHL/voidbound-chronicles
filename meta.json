@@ -3,8 +3,68 @@
   "hotfixesFormat": null,
   "versions": [
     {
+      "id": "1.0.0",
+      "releasedAt": 1768046400000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "1.2.0",
+      "releasedAt": 1773576000000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "1.2.1",
+      "releasedAt": 1776686400000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "1.2.2",
+      "releasedAt": 1779105600000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "1.2.3",
+      "releasedAt": 1781092800000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "1.2.4",
+      "releasedAt": 1783252800000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
       "id": "1.2.5",
-      "releasedAt": 1785366063,
+      "releasedAt": 1785366063000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/voidbound-chronicles/"

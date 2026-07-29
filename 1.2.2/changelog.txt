@@ -1,0 +1,20 @@
+📋 Changelog - Version 1.2.2
+
+✨ Nuevo
+- Añadido SecurityCraft para mejorar la protección de bases: bloques reforzados, teclados, escáneres, sistemas láser y más.
+- Añadidos nuevos mods de optimización para mejorar rendimiento, estabilidad y tiempos de carga.
+
+⚡ Mejoras
+- Mejorado el rendimiento general del juego.
+- Reducido el uso de memoria en varios escenarios de gameplay.
+- Mejorada la carga de chunks y la generación de mundo.
+- Mejorada la estabilidad en multijugador.
+- Optimizados los tiempos de inicio y carga de recursos.
+
+🛠️ Corrección de errores
+- Corregidos varios problemas de compatibilidad entre mods.
+- Corregidos crashes que podían ocurrir durante el gameplay.
+- Corregidos problemas visuales y de interfaz menores.
+- Corregidos problemas que afectaban la generación de mundo.
+- Corregidos problemas de estabilidad reportados por jugadores.
+- Correcciones generales y optimizaciones internas.

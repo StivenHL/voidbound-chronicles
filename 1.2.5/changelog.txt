@@ -1,0 +1,31 @@
+# Registro de cambios - Versión 1.2.5
+
+## Nuevo
+
+* Se añadió **Butchery**, incorporando nuevas mecánicas para reforzar la ambientación e inmersión medieval del modpack.
+* Se añadió un **mod de asistencia ante bloqueos (crash)**, diseñado para facilitar el diagnóstico de errores y proporcionar información útil cuando el juego se cierra inesperadamente.
+
+## Mejoras
+
+* Mejorada la experiencia de juego gracias a una mayor inmersión con el nuevo contenido medieval.
+* Optimizado el proceso de detección y análisis de errores para facilitar la resolución de problemas.
+
+## Corrección de errores
+
+* Se realizaron ajustes internos para mejorar la estabilidad general del modpack.
+* Corregidos pequeños problemas de compatibilidad detectados en la versión anterior.
+
+## Cambios
+
+### Añadidos
+
+* Butchery
+* Mod de asistencia para crashes
+
+### Eliminados
+
+* Ninguno
+
+## Nota
+
+> Esta actualización está enfocada en mejorar la inmersión del modpack y facilitar la identificación de errores en caso de cierres inesperados del juego. ¡Gracias por seguir disfrutando de **Voidbound Chronicles**!

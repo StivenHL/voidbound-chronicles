@@ -1,0 +1,4 @@
+📋 Registro de cambios - Versión 1.2.3
+
+✨ Nuevo
+- Se agregaron mods de seguridad, y más inmersión.

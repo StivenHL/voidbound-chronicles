@@ -1,0 +1,56 @@
+⚔️ VOIDBOUND CHRONICLES ⚙️
+La Aventura RPG Definitiva de Pokémon para Minecraft NeoForge 1.21.1
+Explora. Batalla. Construye. Automatiza. Atrápalos a todos.
+
+🌟 NOVEDADES DE LA VERSIÓN 1.2.0
+
+⚡ Una aventura Pokémon completa
+La 1.2.0 introduce una experiencia de Cobblemon totalmente integrada, junto a tu aventura de Minecraft.
+
+Incluye:
+- Torres de batalla con jefes desafiantes
+- Líderes de gimnasio y medallas coleccionables
+- Nuevas estructuras Pokémon generadas por el mundo
+- Encuentros con Pokémon legendarios
+- Monturas Pokémon
+- Guaridas de raid
+- Acceso al Box Link en cualquier lugar
+- Pokédex expandida
+- Economía con CobbleDollars
+- Muebles y decoraciones temáticas de Pokémon
+- Laboratorios, industrias e instalaciones de investigación
+- Soporte para Mega Evolución
+- Estadísticas y utilidades de batalla avanzadas
+
+🏹 Combate RPG dinámico
+Con la colección completa de RPG Series junto a Better Combat, cada batalla se siente fluida y cinemática.
+Estilos de juego: Magos, Guerreros, Paladines, Arqueros, Pícaros.
+Reliquias, Runas mágicas, Joyería única y mejoras con Advanced Netherite.
+
+⚙️ Crea tu imperio industrial
+Con Create y Create: New Age: fábricas, trenes, generación de energía, plantas de procesamiento, granjas mecánicas y sistemas de almacenamiento.
+
+🌍 Generación de mundo masiva
+Better End, Deeper and Darker, Explorify, Geophilic, Moog's End Structures, YUNG's Structure Overhaul, Better Archeology, Creeper Overhaul, Enderman Overhaul.
+
+🎨 Experiencia de usuario mejorada
+- Nuevo menú principal animado
+- Mejor interfaz de logros
+- Iluminación dinámica
+- Xaero's Minimap & World Map
+- Simple Voice Chat integrado
+- Tips de gameplay
+- Navegación de recetas mejorada con JEI
+
+🚀 Rendimiento optimizado
+Sodium, Lithium, FerriteCore, ImmediatelyFast, EntityCulling, Noisium, Particle Core, Immersive Optimization, Concurrent Chunk Management Engine.
+
+⚠️ RECOMENDACIONES
+RAM mínima: 4 GB | Recomendada: 6–8 GB
+Activa shaders con Iris si tu PC lo soporta.
+Revisa tus keybindings después del primer inicio (Spell Engine, Cobblemon, Create, Xaero's Maps).
+
+🖥️ Soporte de servidor dedicado
+Ahora disponible como server pack completo.
+RAM mínima: 10 GB | Recomendada: 12–16 GB para comunidades grandes.
+Minecraft: NeoForge 1.21.1

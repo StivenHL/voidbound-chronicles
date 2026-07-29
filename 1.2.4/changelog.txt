@@ -1,0 +1,30 @@
+📋 Registro de cambios - Versión 1.2.4
+
+✨ Nuevo
+- Añadido SecurityCraft, incorporándolo oficialmente al modpack.
+- Añadidos Sophisticated Core, Sophisticated Storage y Sophisticated Backpacks: sistema de almacenamiento mucho más completo y organizado.
+- Añadido Butchery, con nuevas mecánicas relacionadas con la obtención y procesamiento de recursos.
+
+⚡ Mejoras
+- Mejorada la compatibilidad entre el cliente y el Server Pack.
+- Ajustes en la interfaz (GUI) para mejorar la experiencia de usuario.
+- Optimizada la integración de los nuevos mods con el resto del modpack.
+
+🛠️ Corrección de errores
+- Corregidos varios problemas de la interfaz gráfica (GUI).
+- Solucionados inconvenientes de compatibilidad con el Server Pack.
+- Ajustes internos para mejorar la estabilidad general del modpack.
+
+➕ Añadidos
+- SecurityCraft
+- Butchery
+- Sophisticated Core
+- Sophisticated Storage
+- Sophisticated Backpacks
+
+❌ Eliminados
+- More Culling
+- Sodium Extra
+
+📝 Nota
+Se corrigió la omisión de SecurityCraft en las notas de versiones anteriores.

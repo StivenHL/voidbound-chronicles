@@ -1,0 +1,4 @@
+📋 Registro de cambios - Versión 1.2.1
+
+🛠️ Corrección de errores
+- Fix GUI: corregidos problemas en la interfaz gráfica reportados tras la 1.2.0.

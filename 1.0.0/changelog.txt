@@ -1,0 +1,35 @@
+📝 Changelog - v1.0.0
+Lanzamiento Inicial: "Voidbound Chronicles"
+Minecraft: 1.21.1 | Loader: NeoForge
+
+⚔️ Combate y Progresión RPG
+- Sistema de combate dinámico: Better Combat, con animaciones realistas, combos y soporte para armas a dos manos.
+- Clases y magia: RPG Series completa (Magos, Paladines y Sacerdotes, Arqueros, Pícaros y Guerreros) con hechizos, tótems, runas y equipo especializado.
+- Equipo de élite: Advanced Netherite y nuevos sets de armadura con AzureLib.
+- Reliquias y accesorios: Curios API y Relics para amuletos, anillos y artefactos con habilidades pasivas únicas.
+
+🌍 Exploración y Dimensiones
+- End renovado por completo con Better End: biomas de cristal, flora exótica y nuevas estructuras.
+- Nether reimaginado con BetterNether: nuevo ecosistema, materiales y criaturas.
+- Mejor generación de estructuras con Explorify y templos rediseñados de YUNG's Better Jungle Temples.
+- Nuevos desafíos: Mutant Monsters y jefes más difíciles.
+
+🍳 Granjas y estilo de vida
+- Cocina avanzada: Farmer's Delight y sus expansiones (End's Delight, Ocean's Delight, Expanded Delight).
+- Carry On: permite cargar bloques funcionales o animales a mano.
+- Beltborne Lanterns: linternas en el cinturón para explorar cuevas con las manos libres.
+
+⚙️ Tecnología y utilidad
+- Ingeniería steampunk con Create y Create: New Age (automatización, energía rotacional, sistemas eléctricos).
+- Navegación con Xaero's Minimap y Xaero's World Map.
+- Gestión de inventario: InvHistory (recuperación de items tras morir) y Not Enough Recipe Book.
+
+⚡ Optimización y rendimiento (cliente)
+- Motor gráfico de alto rendimiento: Sodium, Iris e ImmediatelyFast.
+- Estabilidad de memoria: FerriteCore y Lithium.
+- Carga de mundo fluida: Noisium y Concurrent Chunk Management Engine.
+- Optimización de entidades: EntityCulling y Let Me Despawn.
+
+⚠️ Notas de instalación
+- RAM recomendada: 4GB a 6GB.
+- Si hay problemas visuales, revisar la configuración de Sodium Extra (distancia de partículas).
